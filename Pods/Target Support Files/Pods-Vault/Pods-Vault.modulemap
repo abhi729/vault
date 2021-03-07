@@ -1,0 +1,6 @@
+module Pods_Vault {
+  umbrella header "Pods-Vault-umbrella.h"
+
+  export *
+  module * { export * }
+}
